@@ -50,4 +50,5 @@ Snapshot
 <img width="224" alt="Screenshot 2023-05-06 081545" src="https://user-images.githubusercontent.com/113408005/236594650-41f2f931-c352-43f3-9778-4e26efc3b9c7.png">
 
 ## Experiment-12
-"C:\Users\Tejo Sai Venna\OneDrive\Pictures\Screenshots\2023-05-18.png"
+<img width="960" alt="2023-05-18" src="https://github.com/vennasai377/Cloudcomputing/assets/112466183/867683f7-194e-43e3-b871-64531876017a">
+
